@@ -1,6 +1,6 @@
 # Template POUI (estrutura minima para iniciar um projeto)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.12.
+Este projeto foi desenvolvio utilizando [Angular CLI](https://github.com/angular/angular-cli) na versão 18.2.12.
 
 ## Start project Angular by layout PO-UI (Totvs)
 
